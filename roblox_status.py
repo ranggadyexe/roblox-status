@@ -23,7 +23,7 @@ VIP_GROUPS = {
     "VIP 6": ["akubaconbaik108", "kamubaconbaik108", "sayabaconbaik108"],
     "VIP 7": ["sidewajago01", "sidewajago02"],
     "VIP 8": ["everythinguare108", "satuharilagi108", "jammakansiang108"],
-    "VIP 9": ["skinforsaken108", "skinkuronami108", "skinblubub108"],
+    "VIP 9": ["skinforsaken108", "skinkuronami108", "skinchampion108"],
     "VIP 10": ["mauikanecret108", "mauikanmythic108", "mauikanlejen108"]
 }
 
